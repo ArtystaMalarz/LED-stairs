@@ -8,4 +8,3 @@ To provide enough power to LED’s each one of LED strip is connected to power s
 ![Schematic]("https://github.com/ArtystaMalarz/LED-stairs/blob/main/led%20connection.png?raw=true")
 
 ## Implementation
-
