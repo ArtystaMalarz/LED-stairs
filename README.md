@@ -3,3 +3,4 @@ Stair's lighting with WS2812b and Arduino. In this case stairs got 13 steps with
 
 ## Hardware
 
+![Schematic]("C:\Users\Marcin\Documents\Projekty\LED-stairs\led connection.png")
